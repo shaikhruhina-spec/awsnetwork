@@ -1,4 +1,4 @@
 resource "aws_key_pair" "deployer" {
-  key_name   = "deployer-key"
+  key_name   = "deployer-key-v2"
   public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC9aTI46pzcvPaFuk5fFHhaKCXltPlegdwdxHz8ltplLUDzA9Hw0ewlJCXngz5z343/t1qqVqrAbOVKYOZPa9Hro90IaRCZZX81rzrxsmrRLyK3C6/6vQzuvF039zyEEOGLnO1gmdFujEaTHDw8qbd8AqkmvyCEIobFet+wGt3SfN+16nmq1PgssTFIJTYXsVmfG4W/x0ya3qgsRVw+W49c9coLzQ0wxseVqmC6YnQXnZr84yCf94JBcBiAj5oR1CLFLfr+Z6q1nafqzzUVUkJxAISiwnKzME8mMv719I6FHrHEjC8oXbT3Gt0jjLJa9Jcy3nUI2JrKU6z9dNFX+URIV+Mi6lgUAsu90nmRwqnu9cU1mDhRHjDhOMc+HzoIhU7n1krMAGsILKRDG2/OM5qKXR+4/8d0r9C7B1EwY7G7yQ3xanidACLPuNTyLWE/RJXZTQNAkVjz19euidJ8sc73WYSam65TlqEJPYONmJkXcvI5emz4vPIcPkG+HdlY3gk= ruhina@ruhinaubuntu"
 }

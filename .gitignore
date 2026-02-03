@@ -1,6 +1,7 @@
 # Local .terraform directories
 .terraform/
-
+learner
+learner.pub
 # .tfstate files
 *.tfstate
 *.tfstate.*
